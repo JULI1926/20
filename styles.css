@@ -1,0 +1,17 @@
+.titulo1{
+    background-color: darkslategrey;
+    color:white;   
+    display:flex;    /*lo hace Responsive*/
+    justify-content: center;    /*Centra el Texto*/
+    font: oblique bold 180% cursive; /*Tipo de Letra*/
+    font-family: 'Satisfy', cursive;
+}
+
+.titulo2{
+    font-family: 'Passion One';
+    font-size: 2rem;
+        
+}
+
+
+
