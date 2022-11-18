@@ -43,4 +43,9 @@
     background-color:greenyellow;
 }
 
+caption{
+    font-family:'Courier New', Courier, monospace, cursive;
+    font-weight: bold;
+    font-size: 37px;
+}
 
