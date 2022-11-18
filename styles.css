@@ -13,5 +13,34 @@
         
 }
 
+.table{
+    border-collapse: collapse;
+}
+
+.table td{
+    border: 1px solid;
+    text-align:center;
+}
+
+.table th:hover {
+     color:blue;
+     background-color:red;
+
+}
+
+.table tr{
+    
+    color:black;
+    background-color:lightgrey;
+    font-family:'Courier New', Courier, monospace, cursive;
+    font-size: 25px;
+    font-weight: bold;
+
+}
+
+.table td:hover{
+    color:black;
+    background-color:greenyellow;
+}
 
 
